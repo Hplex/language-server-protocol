@@ -1,1 +1,1 @@
-_specifications/specification-current.md
+specifications/specification-current.md
